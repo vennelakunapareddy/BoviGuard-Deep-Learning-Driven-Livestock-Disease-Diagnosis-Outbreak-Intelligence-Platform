@@ -34,8 +34,7 @@ Production-ready, multi-tier AI platform for **bovine and buffalo disease visual
 4. **Digital Animal Health Records (EHR)**:
    - Full case lifecycle tracking (`Open`, `Under Treatment`, `Recovered`, `Closed`, `Emergency`) with MongoDB persistence and local JSON fallback.
 
-5. **AI & Voice Assistant**:
-   - Built-in Voice Assistant (Web Speech API) & Gemini AI Veterinary Assistant for hands-free clinical consultations.
+
 
 ---
 
